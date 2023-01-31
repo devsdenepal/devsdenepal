@@ -1,6 +1,6 @@
 ![Preview](https://github.com/devsdenepal/devsdenepal.github.io/blob/main/logo.png?raw=true)
 # Devs d`e Nepal ![view](https://komarev.com/ghpvc/?username=devsdenepal&color=green) 
-![Intro](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=An+independent+cyber+security+platform.)
+![Intro](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=A+PROFILE+OF+Dev.GautamKumar)
 ### Focuses on :
 ![Apache](https://img.shields.io/badge/-Apache-black?style=for-the-badge&logo=apache)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white)
