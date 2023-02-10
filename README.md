@@ -18,7 +18,7 @@
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&theme=dark)
-> Developer: **`Dev. Gautam Kumar`**
+> **`Dev. Gautam Kumar`**
 ## RECENT PROJECTS
 <table>
 
