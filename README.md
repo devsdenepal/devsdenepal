@@ -1,5 +1,5 @@
 ![Preview](https://github.com/devsdenepal/devsdenepal.github.io/blob/main/logo.png?raw=true)
-# Devs d`e Nepal ![view](https://komarev.com/ghpvc/?username=devsdenepal&color=green) 
+# Dev. Gautam Kumar ![view](https://komarev.com/ghpvc/?username=devsdenepal&color=green) 
 ![Intro](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=A+PROFILE+OF+Dev.GautamKumar)
 ![Intro2](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=|🇳🇵|)
 ![3D-OVERVIEW](https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg)
