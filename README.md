@@ -1,4 +1,4 @@
-![Preview](https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true)
+![Terminal Preview](https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true)
 # Dev. Gautam Kumar ![view](https://komarev.com/ghpvc/?username=devsdenepal&color=green) 
 ![Intro](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=A+PROFILE+OF+Dev.GautamKumar)
 ![Intro2](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=|🇳🇵|)
