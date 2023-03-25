@@ -1,25 +1,30 @@
-![Terminal Preview](https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true)
-# Dev. Gautam Kumar ![view](https://komarev.com/ghpvc/?username=devsdenepal&color=green) 
-![Intro](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=A+PROFILE+OF+Dev.GautamKumar)
-![Intro2](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=|🇳🇵|)
-![3D-OVERVIEW](https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg)
-![Apache](https://img.shields.io/badge/-Apache-black?style=for-the-badge&logo=apache)
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=5df58b)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=Tailwindcss)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-## Trophies and Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=devsdenepal&theme=juicyfresh&border=no-border&rank=B,A,AA&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&theme=dark)
-## RECENT PROJECTS
-<table>
+<p><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview"></p>
+<h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
+<p><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=I+DON'T+EXIST+!" alt="Intro">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=🇳🇵" alt="Intro2">
+<img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW">
+<img src="https://img.shields.io/badge/-Apache-black?style=for-the-badge&amp;logo=apache" alt="Apache">
+<img src="https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=Git" alt="Git">
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&amp;logo=php" alt="PHP">
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&amp;logo=React&amp;logoColor=5df58b" alt="React">
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&amp;logo=Bootstrap" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&amp;logo=Tailwindcss" alt="Tailwindcss">
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript"></p>
+<hr/>
+<h2 id="trophies-and-stats" align="center">Trophies and Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" width="640px">
+  </p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;border=no-border&amp;rank=B,A,AA&amp;row=2&amp;column=2" alt="trophy" height=250px"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
+</p>
+<h2 id="recent-projects" align="center">RECENT PROJECTS</h2>
+<table align="center">
 
 <tr><td><a href="https://github.com/devsdepal/andro-predom"><img width="140px" src="https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg"></a></td>
 <td><a href="https://github.com/devsdenepal/andro-predom">ANDROID-PREDOM</a><br/></td></tr>
@@ -32,4 +37,4 @@
 <tr><td><a href="https://github.com/devsdenepal/JellyFish/"><img src="https://github.com/devsdenepal/JellyFish/raw/main/logo.jpeg" width="145px"></a></td>
 <td><a href="https://github.com/devsdenepal/JellyFish/"> JellyFish Recorder </a></td></tr>
 </table>
-  
+</p>
