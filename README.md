@@ -1,8 +1,12 @@
-<p><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview"></p>
+<p align="center"><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview" height="400px"></p>
 <h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
-<p><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=I+DON'T+EXIST+!" alt="Intro">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=I+REALLY+DON'T+EXIST+!" alt="Intro" >
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=🇳🇵" alt="Intro2">
-<img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW">
+<img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="650px">
+</p></p>
+<br/>
+<p>
 <img src="https://img.shields.io/badge/-Apache-black?style=for-the-badge&amp;logo=apache" alt="Apache">
 <img src="https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=Git" alt="Git">
@@ -17,7 +21,7 @@
 <hr/>
 <h2 id="trophies-and-stats" align="center">Trophies and Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" width="640px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" width="640px" height="250px">
   </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;border=no-border&amp;rank=B,A,AA&amp;row=2&amp;column=2" alt="trophy" height=250px"></a>
