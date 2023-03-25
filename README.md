@@ -14,12 +14,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=devsdenepal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-## Stats
+## Trophies and Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=devsdenepal&theme=juicyfresh&border=no-border&rank=B,A,AA&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&theme=dark)
-> **`Dev. Gautam Kumar`**
 ## RECENT PROJECTS
 <table>
 
