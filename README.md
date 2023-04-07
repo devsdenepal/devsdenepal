@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview" height="400px"></p>
 <h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=I+REALLY+DON'T+EXIST+!" alt="Intro" >
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Love+You+Nepal!" alt="Intro" >
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=🇳🇵" alt="Intro2">
 <img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="650px">
 </p></p>
@@ -27,6 +27,9 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;border=no-border&amp;rank=B,A,AA&amp;row=2&amp;column=2" alt="trophy" height=250px"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
+  <h2 align="center"> DISCLAIMER/INFORMATION </h2>
+  <p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool developmnet`. Projects related to Pentesting` are made public to share ideas, collect suggestions and contributions for making pentesting safe. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
+  <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
 <h2 id="recent-projects" align="center">RECENT PROJECTS</h2>
 <table align="center">
 
