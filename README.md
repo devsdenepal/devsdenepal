@@ -28,7 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
   <h2 align="center"> DISCLAIMER/INFORMATION </h2>
-  <p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool developmnet`. Projects related to Pentesting` are made public to share ideas, collect suggestions and contributions for making pentesting safe. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
+  <p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool development. Projects related to Pentesting are made public to share ideas, collect suggestions and contributions for making pentesting easier. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
   <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
 <h2 id="recent-projects" align="center">RECENT PROJECTS</h2>
 <table align="center">
