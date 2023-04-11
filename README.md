@@ -43,5 +43,7 @@
 <td><a href="https://github.com/devsdenepal/power-predominant">Power~Predom</a><br/></td></tr>
 <tr><td><a href="https://github.com/devsdenepal/JellyFish/"><img src="https://github.com/devsdenepal/JellyFish/raw/main/logo.jpeg" width="145px"></a></td>
 <td><a href="https://github.com/devsdenepal/JellyFish/"> JellyFish Recorder </a></td></tr>
+<tr><td><a href="https://github.com/devsdenepal/xupa-rustam"><img src="https://raw.githubusercontent.com/devsdenepal/xupa-rustam/main/screenshots/IMG-20230403-WA0022.jpg" width="145px"></a></td>
+<td><a href="https://github.com/devsdenepal/xupa-rustam"> Xupa-Rustam</a></td></tr>
 </table>
 </p>
