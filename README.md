@@ -1,12 +1,8 @@
-<p align="center"><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview" height="400px"></p>
+<!-- <p align="center"><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview" height="400px"></p> -->
 <h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Love+You+Nepal!" alt="Intro" >
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=🇳🇵" alt="Intro2">
-<img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="650px">
-</p></p>
-<br/>
-<p>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=sudo+-rm+-rf+./distraction/*" alt="Intro" >
+  <br>
 <img src="https://img.shields.io/badge/-Apache-black?style=for-the-badge&amp;logo=apache" alt="Apache">
 <img src="https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=Git" alt="Git">
@@ -18,8 +14,10 @@
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript"></p>
-<hr/>
-<h2 id="trophies-and-stats" align="center">Trophies and Stats</h2>
+<h2 align="center">  Syn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
+  <p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool development. Projects related to Pentesting are made public to share ideas, collect suggestions and contributions for making pentesting easier. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
+  <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
+<h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="40px">Trophies and Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" width="640px" height="250px">
   </p>
@@ -27,10 +25,8 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;border=no-border&amp;&amp;row=2&amp;column=2" alt="trophy" height=250px"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
-  <h2 align="center"> DISCLAIMER/INFORMATION </h2>
-  <p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool development. Projects related to Pentesting are made public to share ideas, collect suggestions and contributions for making pentesting easier. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
-  <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
-<h2 id="recent-projects" align="center">RECENT PROJECTS</h2>
+  
+<h2 id="recent-projects" align="center"><img src="https://thumbs.gfycat.com/ClearcutBelovedAustraliankelpie-max-1mb.gif" height="50px">RECENT PROJECTS</h2>
 <table align="center">
 
 <tr><td><a href="https://github.com/devsdepal/andro-predom"><img width="140px" src="https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg"></a></td>
@@ -49,4 +45,7 @@
 <td><a href="https://github.com/devsdenepal/JellyFish/"> JellyFish Recorder </a></td></tr>
 
 </table>
-</p>
+
+ <h2 align="center">Contributions <img src="https://user-images.githubusercontent.com/88532622/169002406-61da59ca-13d0-45c4-ac9c-bc610014c75e.gif" height="25px"></h2>
+<p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="650px">
+</p></p>
