@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview" height="400px"></p> -->
 <h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=sudo+-rm+-rf+./distraction/*" alt="Intro" >
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=sudo+rm+-rf+./distraction/*" alt="Intro" >
   <br>
 <img src="https://img.shields.io/badge/-Apache-black?style=for-the-badge&amp;logo=apache" alt="Apache">
 <img src="https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
