@@ -21,8 +21,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" width="640px" height="250px">
   </p>
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;border=no-border&amp;row=2&amp;column=2" alt="trophy" height=250px"></a>
+<!-- ok -->
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;border=no-border&amp;column=2" alt="trophy" height=250px"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
   
