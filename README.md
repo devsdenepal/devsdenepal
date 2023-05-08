@@ -51,3 +51,6 @@
  <h2 align="center">Contributions <img src="https://user-images.githubusercontent.com/88532622/169002406-61da59ca-13d0-45c4-ac9c-bc610014c75e.gif" height="25px"></h2>
 <p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="650px">
 </p></p>
+<h2 align="center"> Recent Medium Post </h2>
+
+<p align="center"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=devgautamkumar"></img></p>
