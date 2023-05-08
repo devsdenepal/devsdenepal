@@ -53,4 +53,4 @@
 </p></p>
 <h2 align="center"> Recent Medium Post </h2>
 
-<p align="center"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=devgautamkumar"></img></p>
+<p align="center"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=devgautamkumar&amp;theme=dark"></img></p>
