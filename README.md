@@ -14,9 +14,7 @@
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript"></p>
-<h2 align="center">  Syn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
-  <p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool development. Projects related to Pentesting are made public to share ideas, collect suggestions and contributions for making pentesting easier. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
-  <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
+
 <h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="40px">Trophies and Stats</h2>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;&amp;" alt="trophy" height=250px" width="640px"></a>
@@ -27,7 +25,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="250px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
-  
+ <h2 align="center">  Syn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
+ <p>Hello, everyone! This is Dev. Gautam Kumar, and I am a 16-year-old student with a passion for technology. I am an avid learner and enjoy exploring the latest developments in the world of web development, CLI tool development, and offensive team tool development.
+
+With expertise in a range of programming languages, including HTML, CSS, JavaScript, PHP, Python, PowerShell, Markdown, XML, Bash, and SQL, I have been able to contribute to various projects and organizations. I am an expert at Dev. Community Nepal and have served as a moderator at Kali Linux (Zeroday Exploit). I have also contributed to the design of the website for PentesterNepal, showcasing my skills in web development.
+
+I am always looking for opportunities to learn and grow,. I am excited to connect with you all and share ideas, insights, and knowledge. Let's connect!
+  </p>
+<p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool development. Projects related to Pentesting are made public to share ideas, collect suggestions and contributions for making pentesting easier. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
+  <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
 <h2 id="recent-projects" align="center"><img src="https://thumbs.gfycat.com/ClearcutBelovedAustraliankelpie-max-1mb.gif" height="50px">RECENT PROJECTS</h2>
 <table align="center">
 
