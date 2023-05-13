@@ -28,7 +28,7 @@
  <h2 align="center">  Syn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
  <p>Hello, everyone! This is Dev. Gautam Kumar, and I am a 16-year-old student with a passion for technology. I am an avid learner and enjoy exploring the latest developments in the world of web development, CLI tool development, and offensive team tool development.
 
-With expertise in a range of programming languages, including HTML, CSS, JavaScript, PHP, Python, PowerShell, Markdown, XML, Bash, and SQL, I have been able to contribute to various projects and organizations. I am an expert at Dev. Community Nepal and have served as a moderator at Kali Linux (Zeroday Exploit). I have also contributed to the design of the website for PentesterNepal, showcasing my skills in web development.
+With expertise in a range of programming languages, including HTML, CSS, JavaScript, PHP, Python, PowerShell, Markdown, XML, Bash, and SQL, I have been able to contribute to various projects and organizations. I am an expert at <a href="https://www.facebook.com/groups/devcommunitynepal/" target="_blank">Dev. Community Nepal</a> and have served as a moderator at <a href="https://www.facebook.com/groups/1059693744734581/" target="_blank">Kali Linux (Zeroday Exploit)</a>. I have also contributed to the design of the website for <a href="https://github.com/Pentester-Nepal/Pentester-Nepal.github.io" target="_blank">PentesterNepal</a>, showcasing my skills in web development.
 
 I am always looking for opportunities to learn and grow,. I am excited to connect with you all and share ideas, insights, and knowledge. Let's connect!
   </p>
