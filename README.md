@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=sudo+rm+-rf+./distraction/*" alt="Intro" >
   <br>
 <img src="https://img.shields.io/badge/-Apache-black?style=for-the-badge&amp;logo=apache" alt="Apache">
+  <img src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&amp;logo=mysql" alt="Apache">
 <img src="https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
