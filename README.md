@@ -26,14 +26,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="250px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
-<h1>Dev. Gautam Kumar</h1>
+<h1 align="center"> <a href="https://github.com/devsdenepal">Dev. Gautam Kumar</a></h1>
 
-<h2>Intro</h2>
-<p>Hello, everyone! 👋 I'm Dev. Gautam Kumar, a 16-year-old student with an insatiable passion for technology. 🌟 I thrive on exploring the latest advancements in web development, CLI tool development, and offensive team tool development. 🚀</p>
+<h2 align="center">Intro</h2>
+<p align="center">Hello, everyone! 👋 I'm Dev. Gautam Kumar, a 16-year-old student with an insatiable passion for technology. 🌟 I thrive on exploring the latest advancements in web development, CLI tool development, and offensive team tool development. 🚀</p>
 
-<h2>Skills</h2>
-<p>I bring expertise in a wide range of programming languages, including:</p>
-<ul>
+<h2 align="center">Skills</h2>
+<p align="center">I bring expertise in a wide range of programming languages, including:</p>
+<ul align="center">
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
