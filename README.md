@@ -26,15 +26,43 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="250px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
 </p>
- <h2 align="center">  Syn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
- <p>Hello, everyone! This is Dev. Gautam Kumar, and I am a 16-year-old student with a passion for technology. I am an avid learner and enjoy exploring the latest developments in the world of web development, CLI tool development, and offensive team tool development.
+<h1>Dev. Gautam Kumar</h1>
 
-With expertise in a range of programming languages, including HTML, CSS, JavaScript, PHP, Python, PowerShell, Markdown, XML, Bash, and SQL, I have been able to contribute to various projects and organizations. I am an expert at <a href="https://www.facebook.com/groups/devcommunitynepal/" target="_blank">Dev. Community Nepal</a> and have served as a moderator at <a href="https://www.facebook.com/groups/1059693744734581/" target="_blank">Kali Linux (Zeroday Exploit)</a>. I have also contributed to the design of the website for <a href="https://github.com/Pentester-Nepal/Pentester-Nepal.github.io" target="_blank">PentesterNepal</a>, showcasing my skills in web development.
+<h2>Intro</h2>
+<p>Hello, everyone! 👋 I'm Dev. Gautam Kumar, a 16-year-old student with an insatiable passion for technology. 🌟 I thrive on exploring the latest advancements in web development, CLI tool development, and offensive team tool development. 🚀</p>
 
-I am always looking for opportunities to learn and grow,. I am excited to connect with you all and share ideas, insights, and knowledge. Let's connect!
-  </p>
-<p> This profile on Github is made for storing codes and ideas related to Web development and sometimes CLI Tool development. Projects related to Pentesting are made public to share ideas, collect suggestions and contributions for making pentesting easier. Projects are made for only development and pentesting purpose and should not be taken more than educational projects. I am still a  learner.</p>
-  <p> Well...Follow me for getting trending and popular web development based projects, thanks! Jai Nepal !</p>
+<h2>Skills</h2>
+<p>I bring expertise in a wide range of programming languages, including:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>PowerShell</li>
+  <li>Markdown</li>
+  <li>XML</li>
+  <li>Bash</li>
+  <li>SQL</li>
+</ul>
+
+<h2 align="center">Contributions and Achievements</h2>
+<p align="center">🏆 Throughout my journey, I have made valuable contributions to various projects and organizations. Notably:</p>
+<ul align="center">
+  <li>Expert at <a href="https://www.facebook.com/groups/devcommunitynepal/">Dev. Community Nepal</a></li>
+  <li>Moderator,Discord :manager and server expert at <a href="https://www.facebook.com/groups/1059693744734581/">Kali Linux (Zeroday Exploit)</a></li>
+  <li>Web development contribution to <a href="https://github.com/Pentester-Nepal/Pentester-Nepal.github.io">PentesterNepal</a></li>
+</ul>
+
+<h2 align="center">Always Learning and Growing</h2>
+<p align="center">🌱 I am constantly on the lookout for new opportunities to learn and expand my horizons. Connecting with like-minded individuals like you excites me, as we can share ideas, insights, and knowledge. Let's connect and create something amazing together! 💡🤝</p>
+
+<h2 align="center">GitHub Profile Purpose</h2>
+<p align="center">💻 This GitHub profile serves as a treasure trove for storing my codes and ideas related to web development and occasionally CLI tool development. It's worth mentioning that my pentesting projects are public to encourage idea sharing, collect suggestions, and invite contributions for simplifying pentesting. Please remember that these projects are strictly educational and should not be used for purposes beyond development and pentesting. 🚧🔐</p>
+
+<h2 align="center">Join Me on the Journey</h2>
+<p align="center">🌟 Follow me to stay updated with trending and popular web development projects. Together, we can make a difference! Thanks for your support! Jai Nepal! 🙏🇳🇵</p>
+
 <h2 id="recent-projects" align="center"><img src="https://thumbs.gfycat.com/ClearcutBelovedAustraliankelpie-max-1mb.gif" height="50px">RECENT PROJECTS</h2>
 <table align="center">
 
