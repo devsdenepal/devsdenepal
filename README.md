@@ -18,7 +18,7 @@
 
 <h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="40px">Trophies and Stats</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;" alt="trophy" height=250px" width="640px"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;&a=o" alt="trophy" height=250px" width="640px"></a>
 
   </p>
 <!-- ok -->
