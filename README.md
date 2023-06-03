@@ -32,7 +32,7 @@
 <p align="center">Hello, everyone! 👋 I'm Dev. Gautam Kumar, a 16-year-old student with an insatiable passion for technology. 🌟 I thrive on exploring the latest advancements in web development, CLI tool development, and offensive team tool development. 🚀</p>
 
 <h2 align="center">Skills</h2>
-<p align="center"><img src='https://github.com/devsdenepal/devsdenepal/assets/111997815/b2cd673f-9a49-4d66-a434-3ae3c6a226e4'></p>
+<p align="center"><img src='https://github.com/devsdenepal/devsdenepal/assets/111997815/03ee426d-9d23-4b98-a5ed-bc184271bc75'></p>
 
 <h2 align="center">Contributions and Achievements</h2>
 <p align="center">🏆 Throughout my journey, I have made valuable contributions to various projects and organizations. Notably:</p>
