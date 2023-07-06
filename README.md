@@ -16,15 +16,15 @@
 <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript"></p>
 
-<h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="40px">Trophies and Stats</h2>
+<h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="35px">Trophies and Stats</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;&a=o" alt="trophy" height=250px" width="640px"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdenepal&amp;theme=juicyfresh&amp;&a=o" alt="trophy" height=225px" width="620px"></a>
 
   </p>
 <!-- ok -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="250px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=250px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="225px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=225px">
 </p>
 <h1 align="center"> <a href="https://github.com/devsdenepal">Dev. Gautam Kumar</a></h1>
 
@@ -51,7 +51,7 @@
 <h2 align="center">Join Me on the Journey</h2>
 <p align="center">🌟 Follow me to stay updated with trending and popular web development projects. Together, we can make a difference! Thanks for your support! Jai Nepal! 🙏🇳🇵</p>
 
-<h2 id="recent-projects" align="center"><img src="https://thumbs.gfycat.com/ClearcutBelovedAustraliankelpie-max-1mb.gif" height="50px">RECENT PROJECTS</h2>
+<h2 id="recent-projects" align="center"><img src="https://thumbs.gfycat.com/ClearcutBelovedAustraliankelpie-max-1mb.gif" height="25px">RECENT PROJECTS</h2>
 <table align="center">
 
 <tr><td><a href="https://github.com/devsdepal/andro-predom"><img width="140px" src="https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg"></a></td>
@@ -72,7 +72,7 @@
 </table>
 
  <h2 align="center">Contributions <img src="https://user-images.githubusercontent.com/88532622/169002406-61da59ca-13d0-45c4-ac9c-bc610014c75e.gif" height="25px"></h2>
-<p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="650px">
+<p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="500px">
 </p></p>
 <h2 align="center"> Recent Medium Post </h2>
 
