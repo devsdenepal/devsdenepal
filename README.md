@@ -1,55 +1,17 @@
-<!-- <p align="center"><img src="https://github.com/devsdenepal/devsdenepal/blob/main/Untitled%20design(1).gif?raw=true" alt="Terminal Preview" height="400px"></p> -->
-<h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
+<a href="#"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=sudo+rm+-rf+./distraction/*" alt="Intro" >
-  <br>
-<img src="https://img.shields.io/badge/-Apache-black?style=for-the-badge&amp;logo=apache" alt="Apache">
-  <img src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&amp;logo=mysql" alt="Apache">
-<img src="https://img.shields.io/badge/-PowerShell-black?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
-<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=Git" alt="Git">
-<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&amp;logo=php" alt="PHP">
-<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&amp;logo=React&amp;logoColor=5df58b" alt="React">
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&amp;logo=Bootstrap" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&amp;logo=Tailwindcss" alt="Tailwindcss">
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript" alt="JavaScript"></p>
-
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" >
+<img alt="Screenshot 2023-10-15 at 20-39-06 Dev  Gautam Kumar's ticket for HackSquad 2023 🚀" src="https://github.com/devsdenepal/devsdenepal/assets/111997815/35c355b7-601f-4027-8def-724e2cda82ea">
+<hr/>
 <h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="35px">Trophies and Stats</h2>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=juicyfresh&amp;username=devsdenepal" alt="trophy" height=225px" width="620px"></a>
-
-  </p>
-<!-- ok -->
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="225px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=225px">
 </p>
-<h1 align="center"> <a href="https://github.com/devsdenepal">Dev. Gautam Kumar</a></h1>
-
-<h2 align="center">Intro</h2>
-<p align="center">Hello, everyone! 👋 I'm Dev. Gautam Kumar, a 16-year-old student with an insatiable passion for technology. 🌟 I thrive on exploring the latest advancements in web development, CLI tool development, and offensive team tool development. 🚀</p>
-
-<h2 align="center">Skills</h2>
-<p align="center"><img src='https://github.com/devsdenepal/devsdenepal/assets/111997815/03ee426d-9d23-4b98-a5ed-bc184271bc75'></p>
-
-<h2 align="center">Contributions and Achievements</h2>
-<p align="center">🏆 Throughout my journey, I have made valuable contributions to various projects and organizations. Notably:</p>
-<ul align="center">
-  <li>Expert at <a href="https://www.facebook.com/groups/devcommunitynepal/">Dev. Community Nepal</a></li>
-  <li>Moderator,Discord :manager and server expert at <a href="https://www.facebook.com/groups/1059693744734581/">Kali Linux (Zeroday Exploit)</a></li>
-  <li>Web development contribution to <a href="https://github.com/Pentester-Nepal/Pentester-Nepal.github.io">PentesterNepal</a></li>
-</ul>
-
-<h2 align="center">Always Learning and Growing</h2>
-<p align="center">🌱 I am constantly on the lookout for new opportunities to learn and expand my horizons. Connecting with like-minded individuals like you excites me, as we can share ideas, insights, and knowledge. Let's connect and create something amazing together! 💡🤝</p>
-
-<h2 align="center">GitHub Profile Purpose</h2>
-<p align="center">💻 This GitHub profile serves as a treasure trove for storing my codes and ideas related to web development and occasionally CLI tool development. It's worth mentioning that my pentesting projects are public to encourage idea sharing, collect suggestions, and invite contributions for simplifying pentesting. Please remember that these projects are strictly educational and should not be used for purposes beyond development and pentesting. 🚧🔐</p>
-
-<h2 align="center">Join Me on the Journey</h2>
-<p align="center">🌟 Follow me to stay updated with trending and popular web development projects. Together, we can make a difference! Thanks for your support! Jai Nepal! 🙏🇳🇵</p>
+<hr/>
 
 <h2 id="recent-projects" align="center"><img src="https://thumbs.gfycat.com/ClearcutBelovedAustraliankelpie-max-1mb.gif" height="25px">RECENT PROJECTS</h2>
 <table align="center">
