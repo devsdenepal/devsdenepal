@@ -5,7 +5,7 @@
 <hr/>
 <h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s"height="35px">Trophies and Stats</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=juicyfresh&amp;username=devsdenepal" alt="trophy" height=225px" width="620px"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal" alt="trophy" height=225px" width="620px"></a>
 <a href="https://www.holopin.io/@devsdenepal"><img src="https://holopin.me/devsdenepal" height=225px"></a>
 </p>
 <p align="center">
