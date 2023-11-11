@@ -50,6 +50,14 @@
         <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
         <br>PowerShell
       </td>
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+        <br>Flask
+      </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+        <br>Linux
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
         <br>Bash
