@@ -1,3 +1,6 @@
+<p align=center">
+ <img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/refs/heads/main/metrics.plugin.achievements.svg"/>
+</p>
  <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a> <img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" >
