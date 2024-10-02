@@ -1,19 +1,27 @@
 name: Metrics
+
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: 
+    - cron: "0 0 * * *"  # Daily at midnight UTC
   # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # (optional) Run workflow when pushing to master/main
+  push:
+    branches: 
+      - master
+      - main
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+
+    steps:  # You need to define steps under the job
+      - name: Metrics embed  # Adding a step name for clarity
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
