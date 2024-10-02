@@ -1,3 +1,14 @@
-              - name: Metrics embed
-                uses: lowlighter/metrics@v3.34
-            
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  embed_metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
