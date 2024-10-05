@@ -24,4 +24,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_achievements_display: default
