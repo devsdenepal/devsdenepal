@@ -1,5 +1,4 @@
 <span align="center">
- <img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/refs/heads/main/metrics.plugin.achievements.svg"/>
 </span>
  <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
 <p align="center"> 
@@ -13,6 +12,7 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal" alt="trophy" height=205px" width="620px"></a>
 <a href="https://www.holopin.io/@devsdenepal"><img src="https://holopin.me/devsdenepal" height=225px"></a>
+ <img src="https://github.com/devsdenepal/devsdenepal/blob/main/metrics.plugin.achievements.svg"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="225px">
