@@ -15,7 +15,7 @@
  <img src="https://github.com/devsdenepal/devsdenepal/blob/main/metrics.plugin.achievements.svg"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark" alt="Streaks" wi height="225px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark&i=0" alt="Streaks" wi height="225px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=225px">
 </p>
 <hr/>
