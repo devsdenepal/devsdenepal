@@ -1,7 +1,7 @@
   <span align="center">
   
 </span>
- <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
+ <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0n"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" >
 <!--img alt="Screenshot 2023-10-15 at 20-39-06 Dev  Gautam Kumar's ticket for HackSquad 2023 🚀" src="https://github.com/devsdenepal/devsdenepal/assets/111997815/35c355b7-601f-4027-8def-724e2cda82ea"-->
@@ -130,4 +130,4 @@
 </p></p>
 <h2 align="center"> Recent Medium Post </h2>
 
-<p align="center"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=devgautamkumar&amp;theme=dark"></img></p>
+<p align="center"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@devgautamkumar/0"></img></p>
