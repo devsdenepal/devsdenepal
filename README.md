@@ -1,22 +1,22 @@
   <span align="center">
   
 </span> 
- <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0n"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
+ <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0n1&u=089j"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" >
 <!--img alt="Screenshot 2023-10-15 at 20-39-06 Dev  Gautam Kumar's ticket for HackSquad 2023 🚀" src="https://github.com/devsdenepal/devsdenepal/assets/111997815/35c355b7-601f-4027-8def-724e2cda82ea"-->
   <p align="center">
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&preferLogin=false">    <img  alt="devsdenepal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devsdenepal?cardType=level-alternate&theme=radical&preferLogin=false" />  </a>
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&preferLogin=false">    <img  alt="devsdenepal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devsdenepal?cardType=level-alternate&theme=radical&preferLogin=false&userhappy=true" />  </a>
   </p>
   <hr/>
 <h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s" height="55px">Trophies and Stats</h2>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal" alt="trophy" height=205px" width="620px"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal&userhappy=true" alt="trophy" height=205px" width="620px"></a>
 <a href="https://www.holopin.io/@devsdenepal"><img src="https://holopin.me/devsdenepal" height=225px"></a>
  <img src="https://github.com/devsdenepal/devsdenepal/blob/main/metrics.plugin.achievements.svg"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark&i=0" alt="Streaks" wi height="225px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark&i=0&userhappy=true" alt="Streaks" wi height="225px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=225px">
 </p>
 <hr/>
