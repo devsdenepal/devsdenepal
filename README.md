@@ -13,10 +13,8 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal&userhappy=true" alt="trophy" height=205px" width="620px"></a>
 <a href="https://www.holopin.io/@devsdenepal"><img src="https://holopin.me/devsdenepal" height=225px"></a>
- <img src="https://github.com/devsdenepal/devsdenepal/blob/main/metrics.plugin.achievements.svg"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsdenepal&amp;theme=dark&i=0&userhappy=true" alt="Streaks" wi height="225px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdenepal&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;langs_count=10&amp;layout=compact" alt="Stats" height=225px">
 </p>
 <hr/>
@@ -105,8 +103,8 @@
   </table>
 </div>
 
-<h2 id="recent-projects" align="center">RECENT PROJECTS</h2>
-<table align="center">
+<!-- <h2 id="recent-projects" align="center">RECENT PROJECTS</h2> -->
+<!-- <table align="center">
 
 <tr><td><a href="https://github.com/devsdepal/andro-predom"><img width="140px" src="https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg"></a></td>
 <td><a href="https://github.com/devsdenepal/andro-predom">ANDROID-PREDOM</a><br/></td></tr>
@@ -123,7 +121,7 @@
 <tr><td><a href="https://github.com/devsdenepal/JellyFish/"><img src="https://github.com/devsdenepal/JellyFish/raw/main/logo.jpeg" width="145px"></a></td>
 <td><a href="https://github.com/devsdenepal/JellyFish/"> JellyFish Recorder </a></td></tr>
 
-</table>
+</table> -->
 
  <h2 align="center">Contributions <img src="https://user-images.githubusercontent.com/88532622/169002406-61da59ca-13d0-45c4-ac9c-bc610014c75e.gif" height="25px"></h2>
 <p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="500px">
