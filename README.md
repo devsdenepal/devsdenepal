@@ -3,7 +3,7 @@
 </span> 
  <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0n1&u=089j"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
 <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" >
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" > 
 <!--img alt="Screenshot 2023-10-15 at 20-39-06 Dev  Gautam Kumar's ticket for HackSquad 2023 🚀" src="https://github.com/devsdenepal/devsdenepal/assets/111997815/35c355b7-601f-4027-8def-724e2cda82ea"-->
   <p align="center">
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&preferLogin=false">    <img  alt="devsdenepal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devsdenepal?cardType=level-alternate&theme=radical&preferLogin=false&userhappy=true" />  </a>
