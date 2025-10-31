@@ -23,7 +23,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="500px">
 </p></p>
 <p align="center">Streaks 🔥</p>
-<p align="center"><img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=devsdenepal&theme=radical"/></p>
+<p align="center"><img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=devsdenepal&theme=radical"/>
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#831](https://github.com/DenverCoder1/github-readme-streak-stats/issues/831) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 2. ❌ Labeled PR [#98](https://github.com/NepTechTribe/CodeVault/pull/98) in [NepTechTribe/CodeVault](https://github.com/NepTechTribe/CodeVault)
@@ -31,3 +31,4 @@
 4. ❌ Labeled PR [#97](https://github.com/NepTechTribe/CodeVault/pull/97) in [NepTechTribe/CodeVault](https://github.com/NepTechTribe/CodeVault)
 5. ❌ Labeled PR [#97](https://github.com/NepTechTribe/CodeVault/pull/97) in [NepTechTribe/CodeVault](https://github.com/NepTechTribe/CodeVault)
 <!--END_SECTION:activity-->
+</p>
