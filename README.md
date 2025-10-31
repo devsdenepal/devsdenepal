@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal&userhappy=true" alt="trophy" height=205px" width="620px"></a>
 <a href="https://www.holopin.io/@devsdenepal">
-<img width="2428" height="764" alt="image" src="https://holopin.me/devsdenepal" fetchPriority="high" />
+<img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/2809e893-c17e-4f33-a33a-ab18a6bd4e56" />
 
 </a>
 
