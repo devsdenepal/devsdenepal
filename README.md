@@ -29,10 +29,10 @@
 
       
   <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#100](https://github.com/NepTechTribe/CodeVault/pull/100) in [NepTechTribe/CodeVault](https://github.com/NepTechTribe/CodeVault)
+1. ❗️ Opened issue [#1](https://github.com/devsdenepal/devsdenepal.github.io/issues/1) in [devsdenepal/devsdenepal.github.io](https://github.com/devsdenepal/devsdenepal.github.io)
 2. ❌ Labeled PR [#100](https://github.com/NepTechTribe/CodeVault/pull/100) in [NepTechTribe/CodeVault](https://github.com/NepTechTribe/CodeVault)
-3. ❌ Labeled PR [#109](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap/pull/109) in [Krimson-Squad/LinuxKernel_DevRoadmap](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap)
-4. 💪 Opened PR [#109](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap/pull/109) in [Krimson-Squad/LinuxKernel_DevRoadmap](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap)
-5. ❌ Labeled PR [#108](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap/pull/108) in [Krimson-Squad/LinuxKernel_DevRoadmap](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap)
+3. ❌ Labeled PR [#100](https://github.com/NepTechTribe/CodeVault/pull/100) in [NepTechTribe/CodeVault](https://github.com/NepTechTribe/CodeVault)
+4. ❌ Labeled PR [#109](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap/pull/109) in [Krimson-Squad/LinuxKernel_DevRoadmap](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap)
+5. 💪 Opened PR [#109](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap/pull/109) in [Krimson-Squad/LinuxKernel_DevRoadmap](https://github.com/Krimson-Squad/LinuxKernel_DevRoadmap)
 <!--END_SECTION:activity-->
 </p>
