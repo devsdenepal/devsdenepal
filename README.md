@@ -1,8 +1,11 @@
 <span align="center">
       
 </span> 
- <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0n1&u=089j"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view"></h1> 
+ <a href="https://facebook.com/dav.gauutam404"><h1 id="dev-gautam-kumar" align="center">Dev. Gautam Kumar </a><img src="https://user-badge.committers.top/nepal/devsdenepal.svg?a=0n1&u=089j"/> &nbsp;<img src="https://komarev.com/ghpvc/?username=devsdenepal&amp;color=green" alt="view">
+
+</h1> 
 <p align="center"> 
+<a href="https://certopus.com/c/d0f63833bfc24f8e90550b6dbb1e00cd"><image alt="i-CES Hacktoberfest Badge" src="https://certopus.s3.ap-south-1.amazonaws.com/badges/d0f63833bfc24f8e90550b6dbb1e00cd.png" height="175px"></image></a><br/>
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Independent+Nepali+Tech+Enthusiast" alt="Intro" > 
 <!--img alt="Screenshot 2023-10-15 at 20-39-06 Dev  Gautam Kumar's ticket for HackSquad 2023 🚀" src="https://github.com/devsdenepal/devsdenepal/assets/111997815/35c355b7-601f-4027-8def-724e2cda82ea"-->
   <p align="center">
@@ -19,7 +22,9 @@
 
 </p>
 <hr/>
- <h2 align="center">Contributions <img src="https://user-images.githubusercontent.com/88532622/169002406-61da59ca-13d0-45c4-ac9c-bc610014c75e.gif" height="25px"></h2>
+ <h2 align="center">Contributions
+<img src="https://user-images.githubusercontent.com/88532622/169002406-61da59ca-13d0-45c4-ac9c-bc610014c75e.gif" height="25px"></h2>
+
 <p align="center"><img src="https://raw.githubusercontent.com/devsdenepal/devsdenepal/main/profile-3d-contrib/profile-night-view.svg" alt="3D-OVERVIEW" height="500px">
 </p></p>
 <p align="center">Streaks 🔥</p>
