@@ -12,9 +12,10 @@
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&preferLogin=false">    <img  alt="devsdenepal's GitHub Stats" src="https://simobin-s-github-readme-stats.vercel.app/api?username=devsdenepal&theme=radical&include_all_commits=true&hide_border=true&custom_title=devsdenepal%27s%20stats&rank_icon=percentile&show_icons=true&show_owner=true&show=reviews,prs_merged_percentage" />  </a>
   </p>
   <hr/>
-<h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s" height="55px">Trophies and Stats</h2>
+  <p>
+<h2 id="trophies-and-stats" align="center"><img src="https://media0.giphy.com/media/tpw9otZtzhkAZmYae1/giphy.gif?cid=6c09b952bdxvaump82btra5u50inzb7jz9q51xtieuxvca9l&rid=giphy.gif&ct=s" height="55px">Trophies and Stats</h2></p>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=devsdenepal&userhappy=true" alt="trophy" height=205px" width="620px"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://nirzak-trophies.vercel.app/?theme=dark_lover&amp;username=devsdenepal&userhappy=true" alt="trophy" height="405px" width="820px"></a><br/>
 <a href="https://www.holopin.io/@devsdenepal">
 <img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/2809e893-c17e-4f33-a33a-ab18a6bd4e56" />
 
